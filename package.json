@@ -1,0 +1,29 @@
+{
+  "name": "melts.js",
+  "version": "0.0.0",
+  "description": "Object.assign is most important function on javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnny-shaman/melts"
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "Melty Brain",
+    "shorthand",
+    "shortcode",
+    "structure"
+  ],
+  "author": {
+    "name": "Noboru Okazaki"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "git+https://github.com/johnny-shaman/melts/issues"
+  },
+  "homepage": "https://github.com/johnny-shaman/melts#readme"
+}
