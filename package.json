@@ -1,6 +1,6 @@
 {
   "name": "melts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Object.assign is most important function on javascript",
   "main": "index.js",
   "scripts": {
