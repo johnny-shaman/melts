@@ -1,4 +1,6 @@
 # melts
+[![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](./LICENSE)
+[![npm version](https://badge.fury.io/js/melts.svg)](https://badge.fury.io/js/melts)
 [![Maintainability](https://api.codeclimate.com/v1/badges/18c0321897b83ed1703d/maintainability)](https://codeclimate.com/github/johnny-shaman/melts/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/18c0321897b83ed1703d/test_coverage)](https://codeclimate.com/github/johnny-shaman/melts/test_coverage)
 [![Build Status](https://travis-ci.org/johnny-shaman/melts.svg?branch=master)](https://travis-ci.org/johnny-shaman/melts)
